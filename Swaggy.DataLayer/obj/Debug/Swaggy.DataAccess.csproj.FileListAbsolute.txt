@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\CMAppDataLayer.dll.config
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\CMAppDataLayer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\CMAppDataLayer.pdb
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\obj\Debug\Swaggy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\obj\Debug\Swaggy.DataAccess.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\obj\Debug\CMAppDataLayer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\obj\Debug\CMAppDataLayer.pdb
